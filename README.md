@@ -1,1 +1,1 @@
-# Salary-Prediction-of-Data-Scientist
+# Salary-Prediction-of-a-Data-Scientist
